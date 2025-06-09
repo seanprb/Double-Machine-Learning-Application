@@ -7,7 +7,7 @@ library(haven)
 library(DT)
 
 # Source the helper functions
-source("C:/Users/Admin/OneDrive/Desktop/Personal Projects/Apps/DMLSP/helpers.R")
+source("helpers.R")
 
 # Install and load required packages
 install_and_load_packages()
