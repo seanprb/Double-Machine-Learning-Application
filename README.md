@@ -1,7 +1,8 @@
 # Double-Machine-Learning-Application
 This DML App is a Shiny application designed to facilitate data processing, correlation analysis, Double Lasso Selection, and Double Machine Learning (DML) for causal inference. 
 
-Features
+# Features
+
 Data Upload: Users can upload data files in .csv or .dta formats.
 
 Data Processing: Users can preprocess the data by selecting outcome and treatment variables, as well as additional features.
