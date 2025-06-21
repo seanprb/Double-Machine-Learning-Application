@@ -1,4 +1,4 @@
-# Double-Machine-Learning-Application
+# Double Machine Learning (DML) Causal Effects Estimation Application
 This DML App is a Shiny application designed to facilitate data processing, correlation analysis, Double Lasso Selection, and Double Machine Learning (DML) for causal inference. 
 
 # Features
